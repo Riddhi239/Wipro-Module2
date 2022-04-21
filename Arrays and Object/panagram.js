@@ -40,7 +40,7 @@ function checkPangram(str)
 
 let str = "The quick brown fox jumps over the lazy dog";
 
-console.log(str,"</br>")
+console.log(str)
 
 if (checkPangram(str) == true)
 	console.log("1");
